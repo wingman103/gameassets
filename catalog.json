@@ -1,0 +1,2592 @@
+{
+    "version": 1,
+    "songs": [
+        {
+            "id": "song_Futuristic Racing",
+            "audioClipUrl": "https://github.com/wingman103/gameassets/Futuristic%20Racing.mp3",
+            "albumArtUrl": "https://github.com/wingman103/gameassets/Futuristic%20Racing.jpg",
+            "songName": "Futuristic Racing",
+            "category": "Classic",
+            "bpm": 125.0,
+            "firstBeatOffset": 0.0,
+            "isLockedByDefault": false,
+            "unlockId": "song_Futuristic Racing",
+            "unlockCostCassets": 5,
+            "unlockCostDiamonds": 0,
+            "trackThemes": [
+                {
+                    "name": "Sunset",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 0.39150941371917727,
+                        "b": 0.6806679964065552,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Cyber",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.05000000074505806,
+                        "b": 0.15000000596046449,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.32208967208862307,
+                        "g": 0.8867924213409424,
+                        "b": 0.8867924213409424,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Neon Night",
+                    "baseColor": {
+                        "r": 0.07999999821186066,
+                        "g": 0.0,
+                        "b": 0.15000000596046449,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.7123520374298096,
+                        "g": 0.48037558794021609,
+                        "b": 0.801886796951294,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Solar",
+                    "baseColor": {
+                        "r": 0.15000000596046449,
+                        "g": 0.05000000074505806,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.7924528121948242,
+                        "g": 0.6188197731971741,
+                        "b": 0.4074403643608093,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "The Grid",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.10000000149011612,
+                        "b": 0.019999999552965165,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.3776699900627136,
+                        "g": 0.650943398475647,
+                        "b": 0.3776699900627136,
+                        "a": 1.0
+                    }
+                }
+            ],
+            "artistName": "Liyara",
+            "difficultyLevel": "Normal",
+            "difficultyColor": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "difficultyRating": 3,
+            "flashColors": [
+                {
+                    "r": 0.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 0.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 0.9215686321258545,
+                    "b": 0.01568627543747425,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            ],
+            "comboColorNormal": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "comboColorMedium": {
+                "r": 1.0,
+                "g": 0.4000000059604645,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "comboColorMax": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "announcementColor": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "gateInterval": 4.0,
+            "blockInterval": 2.0,
+            "gateSkipChance": 0.15000000596046449,
+            "startDelayBeats": 8.0,
+            "minGatesPerPhase": 4,
+            "maxGatesPerPhase": 10,
+            "minBlocksPerPhase": 4,
+            "maxBlocksPerPhase": 12,
+            "restBeatsBetweenPhases": 6.0,
+            "maxShieldsPerSong": 3,
+            "minBeatsBeforeFirstShield": 64.0,
+            "minBeatsBetweenShields": 128.0,
+            "shieldSpawnChance": 0.20000000298023225,
+            "cassetSpawnChance": 0.15000000596046449,
+            "normalColor": {
+                "r": 0.8175487518310547,
+                "g": 0.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "shrunkColor": {
+                "r": 0.9771003723144531,
+                "g": 0.6000000238418579,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "smashTargetColor": {
+                "r": 0.9871785044670105,
+                "g": 0.6367924213409424,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "smashExecuteColor": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.2131810188293457,
+                "a": 1.0
+            },
+            "shieldColor": {
+                "r": 1.0,
+                "g": 0.800000011920929,
+                "b": 0.8248124122619629,
+                "a": 1.0
+            },
+            "bounceColor": {
+                "r": 0.4575471878051758,
+                "g": 0.877229630947113,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "id": "song_Dark Rolling",
+            "audioClipUrl": "https://github.com/wingman103/gameassets/Dark%20Rolling.mp3",
+            "albumArtUrl": "https://github.com/wingman103/gameassets/Dark%20Rolling.jpg",
+            "songName": "Dark Rolling",
+            "category": "Classic",
+            "bpm": 135.0,
+            "firstBeatOffset": 0.0,
+            "isLockedByDefault": false,
+            "unlockId": "song_Dark Rolling",
+            "unlockCostCassets": 1200,
+            "unlockCostDiamonds": 0,
+            "trackThemes": [
+                {
+                    "name": "Emerald",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.20000000298023225,
+                        "g": 1.0,
+                        "b": 0.5,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Autumn",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 0.6000000238418579,
+                        "b": 0.10000000149011612,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Moss",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.5,
+                        "g": 1.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Earth",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 0.8999999761581421,
+                        "b": 0.4000000059604645,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Deep Jungle",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.10000000149011612,
+                        "g": 1.0,
+                        "b": 0.10000000149011612,
+                        "a": 1.0
+                    }
+                }
+            ],
+            "artistName": "",
+            "difficultyLevel": "Medium",
+            "difficultyColor": {
+                "r": 1.0,
+                "g": 0.9215686321258545,
+                "b": 0.01568627543747425,
+                "a": 1.0
+            },
+            "difficultyRating": 3,
+            "flashColors": [
+                {
+                    "r": 1.0,
+                    "g": 0.699999988079071,
+                    "b": 0.800000011920929,
+                    "a": 1.0
+                },
+                {
+                    "r": 0.5,
+                    "g": 1.0,
+                    "b": 0.8999999761581421,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                {
+                    "r": 0.7400000095367432,
+                    "g": 0.5,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            ],
+            "comboColorNormal": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "comboColorMedium": {
+                "r": 0.5,
+                "g": 1.0,
+                "b": 0.8999999761581421,
+                "a": 1.0
+            },
+            "comboColorMax": {
+                "r": 1.0,
+                "g": 0.699999988079071,
+                "b": 0.800000011920929,
+                "a": 1.0
+            },
+            "announcementColor": {
+                "r": 0.5,
+                "g": 1.0,
+                "b": 0.8999999761581421,
+                "a": 1.0
+            },
+            "gateInterval": 3.0,
+            "blockInterval": 2.0,
+            "gateSkipChance": 0.15000000596046449,
+            "startDelayBeats": 8.0,
+            "minGatesPerPhase": 4,
+            "maxGatesPerPhase": 12,
+            "minBlocksPerPhase": 6,
+            "maxBlocksPerPhase": 15,
+            "restBeatsBetweenPhases": 6.0,
+            "maxShieldsPerSong": 4,
+            "minBeatsBeforeFirstShield": 64.0,
+            "minBeatsBetweenShields": 128.0,
+            "shieldSpawnChance": 0.20000000298023225,
+            "cassetSpawnChance": 0.15000000596046449,
+            "normalColor": {
+                "r": 0.20000000298023225,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "shrunkColor": {
+                "r": 0.800000011920929,
+                "g": 0.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "smashTargetColor": {
+                "r": 1.0,
+                "g": 0.9215686321258545,
+                "b": 0.01568627543747425,
+                "a": 1.0
+            },
+            "smashExecuteColor": {
+                "r": 1.0,
+                "g": 0.5,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "shieldColor": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "bounceColor": {
+                "r": 1.0,
+                "g": 0.9215686321258545,
+                "b": 0.01568627543747425,
+                "a": 1.0
+            }
+        },
+        {
+            "id": "170bpm-epic_euphoric_hardstyle_anthem",
+            "audioClipUrl": "https://github.com/wingman103/gameassets/170BPM-Epic%20Euphoric%20Hardstyle%20Anthem.mp3",
+            "albumArtUrl": "https://github.com/wingman103/gameassets/170BPM-Epic%20Euphoric%20Hardstyle%20Anthem.jpg",
+            "songName": "170BPM-Epic Euphoric Hardstyle Anthem",
+            "category": "Classic",
+            "bpm": 170.0,
+            "firstBeatOffset": 0.0,
+            "isLockedByDefault": false,
+            "unlockId": "",
+            "unlockCostCassets": 0,
+            "unlockCostDiamonds": 0,
+            "trackThemes": [
+                {
+                    "name": "Magma",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 0.20000000298023225,
+                        "b": 0.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Ash",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 0.4000000059604645,
+                        "b": 0.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Obsidian",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Eruption",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 0.800000011920929,
+                        "b": 0.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Core",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 0.10000000149011612,
+                        "b": 0.10000000149011612,
+                        "a": 1.0
+                    }
+                }
+            ],
+            "artistName": "",
+            "difficultyLevel": "Medium",
+            "difficultyColor": {
+                "r": 1.0,
+                "g": 0.9215686321258545,
+                "b": 0.01568627543747425,
+                "a": 1.0
+            },
+            "difficultyRating": 3,
+            "flashColors": [
+                {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 0.9215686321258545,
+                    "b": 0.01568627543747425,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 0.5,
+                    "b": 0.0,
+                    "a": 1.0
+                },
+                {
+                    "r": 0.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            ],
+            "comboColorNormal": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "comboColorMedium": {
+                "r": 1.0,
+                "g": 0.9215686321258545,
+                "b": 0.01568627543747425,
+                "a": 1.0
+            },
+            "comboColorMax": {
+                "r": 1.0,
+                "g": 0.5,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "announcementColor": {
+                "r": 1.0,
+                "g": 0.9215686321258545,
+                "b": 0.01568627543747425,
+                "a": 1.0
+            },
+            "gateInterval": 4.0,
+            "blockInterval": 2.0,
+            "gateSkipChance": 0.15000000596046449,
+            "startDelayBeats": 8.0,
+            "minGatesPerPhase": 4,
+            "maxGatesPerPhase": 10,
+            "minBlocksPerPhase": 4,
+            "maxBlocksPerPhase": 12,
+            "restBeatsBetweenPhases": 6.0,
+            "maxShieldsPerSong": 3,
+            "minBeatsBeforeFirstShield": 64.0,
+            "minBeatsBetweenShields": 128.0,
+            "shieldSpawnChance": 0.20000000298023225,
+            "cassetSpawnChance": 0.15000000596046449,
+            "normalColor": {
+                "r": 0.20000000298023225,
+                "g": 1.0,
+                "b": 0.5,
+                "a": 1.0
+            },
+            "shrunkColor": {
+                "r": 0.5,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "smashTargetColor": {
+                "r": 1.0,
+                "g": 0.8999999761581421,
+                "b": 0.4000000059604645,
+                "a": 1.0
+            },
+            "smashExecuteColor": {
+                "r": 1.0,
+                "g": 0.6000000238418579,
+                "b": 0.10000000149011612,
+                "a": 1.0
+            },
+            "shieldColor": {
+                "r": 0.10000000149011612,
+                "g": 1.0,
+                "b": 0.10000000149011612,
+                "a": 1.0
+            },
+            "bounceColor": {
+                "r": 1.0,
+                "g": 0.9215686321258545,
+                "b": 0.01568627543747425,
+                "a": 1.0
+            }
+        },
+        {
+            "id": "song_Darksynth",
+            "audioClipUrl": "https://github.com/wingman103/gameassets/Darksynth.mp3",
+            "albumArtUrl": "https://github.com/wingman103/gameassets/Darksynth.jpg",
+            "songName": "Darksynth",
+            "category": "Classic",
+            "bpm": 150.0,
+            "firstBeatOffset": 0.0,
+            "isLockedByDefault": false,
+            "unlockId": "song_Darksynth",
+            "unlockCostCassets": 0,
+            "unlockCostDiamonds": 200,
+            "trackThemes": [
+                {
+                    "name": "Magma",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 0.20000000298023225,
+                        "b": 0.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Ash",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 0.4000000059604645,
+                        "b": 0.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Obsidian",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Eruption",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 0.800000011920929,
+                        "b": 0.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Core",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 0.10000000149011612,
+                        "b": 0.10000000149011612,
+                        "a": 1.0
+                    }
+                }
+            ],
+            "artistName": "",
+            "difficultyLevel": "Medium",
+            "difficultyColor": {
+                "r": 1.0,
+                "g": 0.9215686321258545,
+                "b": 0.01568627543747425,
+                "a": 1.0
+            },
+            "difficultyRating": 3,
+            "flashColors": [
+                {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 0.9215686321258545,
+                    "b": 0.01568627543747425,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 0.5,
+                    "b": 0.0,
+                    "a": 1.0
+                },
+                {
+                    "r": 0.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            ],
+            "comboColorNormal": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "comboColorMedium": {
+                "r": 1.0,
+                "g": 0.9215686321258545,
+                "b": 0.01568627543747425,
+                "a": 1.0
+            },
+            "comboColorMax": {
+                "r": 1.0,
+                "g": 0.5,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "announcementColor": {
+                "r": 1.0,
+                "g": 0.9215686321258545,
+                "b": 0.01568627543747425,
+                "a": 1.0
+            },
+            "gateInterval": 4.0,
+            "blockInterval": 2.0,
+            "gateSkipChance": 0.15000000596046449,
+            "startDelayBeats": 8.0,
+            "minGatesPerPhase": 4,
+            "maxGatesPerPhase": 10,
+            "minBlocksPerPhase": 4,
+            "maxBlocksPerPhase": 12,
+            "restBeatsBetweenPhases": 6.0,
+            "maxShieldsPerSong": 3,
+            "minBeatsBeforeFirstShield": 64.0,
+            "minBeatsBetweenShields": 128.0,
+            "shieldSpawnChance": 0.20000000298023225,
+            "cassetSpawnChance": 0.15000000596046449,
+            "normalColor": {
+                "r": 0.20000000298023225,
+                "g": 1.0,
+                "b": 0.5,
+                "a": 1.0
+            },
+            "shrunkColor": {
+                "r": 0.5,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "smashTargetColor": {
+                "r": 1.0,
+                "g": 0.8999999761581421,
+                "b": 0.4000000059604645,
+                "a": 1.0
+            },
+            "smashExecuteColor": {
+                "r": 1.0,
+                "g": 0.6000000238418579,
+                "b": 0.10000000149011612,
+                "a": 1.0
+            },
+            "shieldColor": {
+                "r": 0.10000000149011612,
+                "g": 1.0,
+                "b": 0.10000000149011612,
+                "a": 1.0
+            },
+            "bounceColor": {
+                "r": 1.0,
+                "g": 0.9215686321258545,
+                "b": 0.01568627543747425,
+                "a": 1.0
+            }
+        },
+        {
+            "id": "song_Hyper-Techno",
+            "audioClipUrl": "https://github.com/wingman103/gameassets/Hyper-Techno.mp3",
+            "albumArtUrl": "https://github.com/wingman103/gameassets/Hyper-Techno.jpg",
+            "songName": "Hyper-Techno",
+            "category": "Hardcore",
+            "bpm": 160.0,
+            "firstBeatOffset": 0.0,
+            "isLockedByDefault": false,
+            "unlockId": "song_Hyper-Techno",
+            "unlockCostCassets": 0,
+            "unlockCostDiamonds": 0,
+            "trackThemes": [
+                {
+                    "name": "Sunset",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 0.05000000074505806,
+                        "b": 0.5,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Cyber",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Neon Night",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.7400000095367432,
+                        "g": 0.07000000029802323,
+                        "b": 1.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Solar",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 0.550000011920929,
+                        "b": 0.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "The Grid",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.20000000298023225,
+                        "g": 1.0,
+                        "b": 0.20000000298023225,
+                        "a": 1.0
+                    }
+                }
+            ],
+            "artistName": "",
+            "difficultyLevel": "Hard",
+            "difficultyColor": {
+                "r": 1.0,
+                "g": 0.4000000059604645,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "difficultyRating": 5,
+            "flashColors": [
+                {
+                    "r": 0.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 0.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 0.9215686321258545,
+                    "b": 0.01568627543747425,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            ],
+            "comboColorNormal": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "comboColorMedium": {
+                "r": 1.0,
+                "g": 0.4000000059604645,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "comboColorMax": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "announcementColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "gateInterval": 4.0,
+            "blockInterval": 2.0,
+            "gateSkipChance": 0.15000000596046449,
+            "startDelayBeats": 8.0,
+            "minGatesPerPhase": 4,
+            "maxGatesPerPhase": 10,
+            "minBlocksPerPhase": 4,
+            "maxBlocksPerPhase": 12,
+            "restBeatsBetweenPhases": 6.0,
+            "maxShieldsPerSong": 3,
+            "minBeatsBeforeFirstShield": 64.0,
+            "minBeatsBetweenShields": 128.0,
+            "shieldSpawnChance": 0.20000000298023225,
+            "cassetSpawnChance": 0.15000000596046449,
+            "normalColor": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "shrunkColor": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "smashTargetColor": {
+                "r": 1.0,
+                "g": 0.9215686321258545,
+                "b": 0.01568627543747425,
+                "a": 1.0
+            },
+            "smashExecuteColor": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "shieldColor": {
+                "r": 1.0,
+                "g": 0.9215686321258545,
+                "b": 0.01568627543747425,
+                "a": 1.0
+            },
+            "bounceColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "id": "song_NEON",
+            "audioClipUrl": "https://github.com/wingman103/gameassets/NEON.mp3",
+            "albumArtUrl": "https://github.com/wingman103/gameassets/NEON.jpg",
+            "songName": "NEON",
+            "category": "Classic",
+            "bpm": 160.0,
+            "firstBeatOffset": 0.0,
+            "isLockedByDefault": true,
+            "unlockId": "song_NEON",
+            "unlockCostCassets": 5,
+            "unlockCostDiamonds": 0,
+            "trackThemes": [
+                {
+                    "name": "Lo-Fi",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 0.699999988079071,
+                        "b": 0.800000011920929,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Dream",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.5,
+                        "g": 1.0,
+                        "b": 0.8999999761581421,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Peach",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 0.5,
+                        "b": 0.4000000059604645,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Ocean",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.30000001192092898,
+                        "g": 0.800000011920929,
+                        "b": 1.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Marble",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "a": 1.0
+                    }
+                }
+            ],
+            "artistName": "",
+            "difficultyLevel": "Normal",
+            "difficultyColor": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "difficultyRating": 2,
+            "flashColors": [
+                {
+                    "r": 0.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 0.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 0.9215686321258545,
+                    "b": 0.01568627543747425,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            ],
+            "comboColorNormal": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "comboColorMedium": {
+                "r": 1.0,
+                "g": 0.4000000059604645,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "comboColorMax": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "announcementColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "gateInterval": 4.0,
+            "blockInterval": 2.0,
+            "gateSkipChance": 0.15000000596046449,
+            "startDelayBeats": 8.0,
+            "minGatesPerPhase": 4,
+            "maxGatesPerPhase": 10,
+            "minBlocksPerPhase": 4,
+            "maxBlocksPerPhase": 12,
+            "restBeatsBetweenPhases": 6.0,
+            "maxShieldsPerSong": 3,
+            "minBeatsBeforeFirstShield": 64.0,
+            "minBeatsBetweenShields": 128.0,
+            "shieldSpawnChance": 0.20000000298023225,
+            "cassetSpawnChance": 0.15000000596046449,
+            "normalColor": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "shrunkColor": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "smashTargetColor": {
+                "r": 1.0,
+                "g": 0.9215686321258545,
+                "b": 0.01568627543747425,
+                "a": 1.0
+            },
+            "smashExecuteColor": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "shieldColor": {
+                "r": 1.0,
+                "g": 0.9215686321258545,
+                "b": 0.01568627543747425,
+                "a": 1.0
+            },
+            "bounceColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "id": "160bpm-high-energy_brazilian_phonk_track",
+            "audioClipUrl": "https://github.com/wingman103/gameassets/160BPM-High-Energy%20Brazilian%20Phonk%20Track.mp3",
+            "albumArtUrl": "https://github.com/wingman103/gameassets/160BPM-High-Energy%20Brazilian%20Phonk%20Track.jpg",
+            "songName": "160BPM-High-Energy Brazilian Phonk Track",
+            "category": "Hardcore",
+            "bpm": 160.0,
+            "firstBeatOffset": 0.0,
+            "isLockedByDefault": false,
+            "unlockId": "",
+            "unlockCostCassets": 0,
+            "unlockCostDiamonds": 0,
+            "trackThemes": [
+                {
+                    "name": "Lo-Fi",
+                    "baseColor": {
+                        "r": 0.10000000149011612,
+                        "g": 0.15000000596046449,
+                        "b": 0.20000000298023225,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 0.699999988079071,
+                        "b": 0.800000011920929,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Dream",
+                    "baseColor": {
+                        "r": 0.15000000596046449,
+                        "g": 0.10000000149011612,
+                        "b": 0.20000000298023225,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.5,
+                        "g": 1.0,
+                        "b": 0.8999999761581421,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Peach",
+                    "baseColor": {
+                        "r": 0.15000000596046449,
+                        "g": 0.07999999821186066,
+                        "b": 0.05000000074505806,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 0.5,
+                        "b": 0.4000000059604645,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Ocean",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.10000000149011612,
+                        "b": 0.15000000596046449,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.30000001192092898,
+                        "g": 0.800000011920929,
+                        "b": 1.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Marble",
+                    "baseColor": {
+                        "r": 0.10000000149011612,
+                        "g": 0.10000000149011612,
+                        "b": 0.10000000149011612,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "a": 1.0
+                    }
+                }
+            ],
+            "artistName": "",
+            "difficultyLevel": "Hard",
+            "difficultyColor": {
+                "r": 1.0,
+                "g": 0.4000000059604645,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "difficultyRating": 5,
+            "flashColors": [
+                {
+                    "r": 0.0,
+                    "g": 1.0,
+                    "b": 0.5,
+                    "a": 1.0
+                },
+                {
+                    "r": 0.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                {
+                    "r": 0.0,
+                    "g": 0.5,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            ],
+            "comboColorNormal": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "comboColorMedium": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "comboColorMax": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 0.5,
+                "a": 1.0
+            },
+            "announcementColor": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "gateInterval": 4.0,
+            "blockInterval": 2.0,
+            "gateSkipChance": 0.15000000596046449,
+            "startDelayBeats": 8.0,
+            "minGatesPerPhase": 4,
+            "maxGatesPerPhase": 10,
+            "minBlocksPerPhase": 4,
+            "maxBlocksPerPhase": 12,
+            "restBeatsBetweenPhases": 6.0,
+            "maxShieldsPerSong": 3,
+            "minBeatsBeforeFirstShield": 64.0,
+            "minBeatsBetweenShields": 128.0,
+            "shieldSpawnChance": 0.20000000298023225,
+            "cassetSpawnChance": 0.15000000596046449,
+            "normalColor": {
+                "r": 1.0,
+                "g": 0.20000000298023225,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "shrunkColor": {
+                "r": 1.0,
+                "g": 0.800000011920929,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "smashTargetColor": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "smashExecuteColor": {
+                "r": 1.0,
+                "g": 0.4000000059604645,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "shieldColor": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "bounceColor": {
+                "r": 1.0,
+                "g": 0.9215686321258545,
+                "b": 0.01568627543747425,
+                "a": 1.0
+            }
+        },
+        {
+            "id": "song_175BPM-High-Adrenaline Hyper-Techno Phonk Track",
+            "audioClipUrl": "https://github.com/wingman103/gameassets/175BPM-High-Adrenaline%20Hyper-Techno%20Phonk%20Track.mp3",
+            "albumArtUrl": "https://github.com/wingman103/gameassets/175BPM-High-Adrenaline%20Hyper-Techno%20Phonk%20Track.jpg",
+            "songName": "175BPM-High-Adrenaline Hyper-Techno Phonk Track",
+            "category": "Hardcore",
+            "bpm": 175.0,
+            "firstBeatOffset": 0.0,
+            "isLockedByDefault": false,
+            "unlockId": "song_175BPM-High-Adrenaline Hyper-Techno Phonk Track",
+            "unlockCostCassets": 800,
+            "unlockCostDiamonds": 0,
+            "trackThemes": [
+                {
+                    "name": "Venom",
+                    "baseColor": {
+                        "r": 0.05000000074505806,
+                        "g": 0.15000000596046449,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.30000001192092898,
+                        "g": 1.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Radiation",
+                    "baseColor": {
+                        "r": 0.15000000596046449,
+                        "g": 0.15000000596046449,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Mutation",
+                    "baseColor": {
+                        "r": 0.10000000149011612,
+                        "g": 0.0,
+                        "b": 0.15000000596046449,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.800000011920929,
+                        "g": 0.0,
+                        "b": 1.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Slime",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.10000000149011612,
+                        "b": 0.05000000074505806,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.10000000149011612,
+                        "g": 1.0,
+                        "b": 0.5,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Critical",
+                    "baseColor": {
+                        "r": 0.20000000298023225,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 0.20000000298023225,
+                        "b": 0.10000000149011612,
+                        "a": 1.0
+                    }
+                }
+            ],
+            "artistName": "",
+            "difficultyLevel": "Hard",
+            "difficultyColor": {
+                "r": 1.0,
+                "g": 0.4000000059604645,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "difficultyRating": 5,
+            "flashColors": [
+                {
+                    "r": 0.30000001192092898,
+                    "g": 1.0,
+                    "b": 0.0,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 0.9215686321258545,
+                    "b": 0.01568627543747425,
+                    "a": 1.0
+                },
+                {
+                    "r": 0.800000011920929,
+                    "g": 0.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            ],
+            "comboColorNormal": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "comboColorMedium": {
+                "r": 1.0,
+                "g": 0.9215686321258545,
+                "b": 0.01568627543747425,
+                "a": 1.0
+            },
+            "comboColorMax": {
+                "r": 0.30000001192092898,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "announcementColor": {
+                "r": 0.30000001192092898,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "gateInterval": 4.0,
+            "blockInterval": 2.0,
+            "gateSkipChance": 0.25,
+            "startDelayBeats": 8.0,
+            "minGatesPerPhase": 8,
+            "maxGatesPerPhase": 15,
+            "minBlocksPerPhase": 8,
+            "maxBlocksPerPhase": 20,
+            "restBeatsBetweenPhases": 6.0,
+            "maxShieldsPerSong": 1,
+            "minBeatsBeforeFirstShield": 128.0,
+            "minBeatsBetweenShields": 128.0,
+            "shieldSpawnChance": 0.10000000149011612,
+            "cassetSpawnChance": 0.15000000596046449,
+            "normalColor": {
+                "r": 0.20000000298023225,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "shrunkColor": {
+                "r": 0.800000011920929,
+                "g": 0.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "smashTargetColor": {
+                "r": 1.0,
+                "g": 0.9215686321258545,
+                "b": 0.01568627543747425,
+                "a": 1.0
+            },
+            "smashExecuteColor": {
+                "r": 1.0,
+                "g": 0.5,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "shieldColor": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "bounceColor": {
+                "r": 1.0,
+                "g": 0.9215686321258545,
+                "b": 0.01568627543747425,
+                "a": 1.0
+            }
+        },
+        {
+            "id": "song_APT",
+            "audioClipUrl": "https://github.com/wingman103/gameassets/APT.mp3",
+            "albumArtUrl": "https://github.com/wingman103/gameassets/APT.jpg",
+            "songName": "APT",
+            "category": "EDM",
+            "bpm": 150.0,
+            "firstBeatOffset": 0.0,
+            "isLockedByDefault": true,
+            "unlockId": "song_APT",
+            "unlockCostCassets": 15,
+            "unlockCostDiamonds": 0,
+            "trackThemes": [
+                {
+                    "name": "Sunset",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 0.39150941371917727,
+                        "b": 0.6806679964065552,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Cyber",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.05000000074505806,
+                        "b": 0.15000000596046449,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.32208967208862307,
+                        "g": 0.8867924213409424,
+                        "b": 0.8867924213409424,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Neon Night",
+                    "baseColor": {
+                        "r": 0.07999999821186066,
+                        "g": 0.0,
+                        "b": 0.15000000596046449,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.7123520374298096,
+                        "g": 0.48037558794021609,
+                        "b": 0.801886796951294,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Solar",
+                    "baseColor": {
+                        "r": 0.15000000596046449,
+                        "g": 0.05000000074505806,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.7924528121948242,
+                        "g": 0.6188197731971741,
+                        "b": 0.4074403643608093,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "The Grid",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.10000000149011612,
+                        "b": 0.019999999552965165,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.3776699900627136,
+                        "g": 0.650943398475647,
+                        "b": 0.3776699900627136,
+                        "a": 1.0
+                    }
+                }
+            ],
+            "artistName": "ROSÉ & Bruno Mars",
+            "difficultyLevel": "Normal",
+            "difficultyColor": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "difficultyRating": 3,
+            "flashColors": [
+                {
+                    "r": 0.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 0.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 0.9215686321258545,
+                    "b": 0.01568627543747425,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            ],
+            "comboColorNormal": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "comboColorMedium": {
+                "r": 1.0,
+                "g": 0.4000000059604645,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "comboColorMax": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "announcementColor": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "gateInterval": 4.0,
+            "blockInterval": 2.0,
+            "gateSkipChance": 0.15000000596046449,
+            "startDelayBeats": 18.0,
+            "minGatesPerPhase": 4,
+            "maxGatesPerPhase": 10,
+            "minBlocksPerPhase": 4,
+            "maxBlocksPerPhase": 12,
+            "restBeatsBetweenPhases": 6.0,
+            "maxShieldsPerSong": 3,
+            "minBeatsBeforeFirstShield": 64.0,
+            "minBeatsBetweenShields": 128.0,
+            "shieldSpawnChance": 0.20000000298023225,
+            "cassetSpawnChance": 0.15000000596046449,
+            "normalColor": {
+                "r": 0.8175487518310547,
+                "g": 0.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "shrunkColor": {
+                "r": 0.9771003723144531,
+                "g": 0.6000000238418579,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "smashTargetColor": {
+                "r": 0.9871785044670105,
+                "g": 0.6367924213409424,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "smashExecuteColor": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.2131810188293457,
+                "a": 1.0
+            },
+            "shieldColor": {
+                "r": 1.0,
+                "g": 0.800000011920929,
+                "b": 0.8248124122619629,
+                "a": 1.0
+            },
+            "bounceColor": {
+                "r": 0.4575471878051758,
+                "g": 0.877229630947113,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "id": "song_Pixel Rush",
+            "audioClipUrl": "https://github.com/wingman103/gameassets/Pixel%20Rush.mp3",
+            "albumArtUrl": "https://github.com/wingman103/gameassets/Pixel%20Rush.jpg",
+            "songName": "Pixel Rush",
+            "category": "EDM",
+            "bpm": 150.0,
+            "firstBeatOffset": 0.0,
+            "isLockedByDefault": true,
+            "unlockId": "song_Pixel Rush",
+            "unlockCostCassets": 5,
+            "unlockCostDiamonds": 0,
+            "trackThemes": [
+                {
+                    "name": "Emerald",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.15000000596046449,
+                        "b": 0.05000000074505806,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.20000000298023225,
+                        "g": 1.0,
+                        "b": 0.5,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Autumn",
+                    "baseColor": {
+                        "r": 0.15000000596046449,
+                        "g": 0.05000000074505806,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 0.6000000238418579,
+                        "b": 0.10000000149011612,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Moss",
+                    "baseColor": {
+                        "r": 0.05000000074505806,
+                        "g": 0.10000000149011612,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.5,
+                        "g": 1.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Earth",
+                    "baseColor": {
+                        "r": 0.10000000149011612,
+                        "g": 0.05000000074505806,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 0.8999999761581421,
+                        "b": 0.4000000059604645,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Amber",
+                    "baseColor": {
+                        "r": 0.15000000596046449,
+                        "g": 0.10000000149011612,
+                        "b": 0.05000000074505806,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 0.6000000238418579,
+                        "b": 0.0,
+                        "a": 1.0
+                    }
+                }
+            ],
+            "artistName": "Lyria 3",
+            "difficultyLevel": "Normal",
+            "difficultyColor": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "difficultyRating": 3,
+            "flashColors": [
+                {
+                    "r": 0.20000000298023225,
+                    "g": 1.0,
+                    "b": 0.5,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 0.9215686321258545,
+                    "b": 0.01568627543747425,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 0.6000000238418579,
+                    "b": 0.0,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            ],
+            "comboColorNormal": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "comboColorMedium": {
+                "r": 1.0,
+                "g": 0.9215686321258545,
+                "b": 0.01568627543747425,
+                "a": 1.0
+            },
+            "comboColorMax": {
+                "r": 0.20000000298023225,
+                "g": 1.0,
+                "b": 0.5,
+                "a": 1.0
+            },
+            "announcementColor": {
+                "r": 0.20000000298023225,
+                "g": 1.0,
+                "b": 0.5,
+                "a": 1.0
+            },
+            "gateInterval": 4.0,
+            "blockInterval": 2.0,
+            "gateSkipChance": 0.15000000596046449,
+            "startDelayBeats": 8.0,
+            "minGatesPerPhase": 4,
+            "maxGatesPerPhase": 10,
+            "minBlocksPerPhase": 4,
+            "maxBlocksPerPhase": 12,
+            "restBeatsBetweenPhases": 6.0,
+            "maxShieldsPerSong": 3,
+            "minBeatsBeforeFirstShield": 64.0,
+            "minBeatsBetweenShields": 128.0,
+            "shieldSpawnChance": 0.20000000298023225,
+            "cassetSpawnChance": 0.15000000596046449,
+            "normalColor": {
+                "r": 0.8175487518310547,
+                "g": 0.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "shrunkColor": {
+                "r": 0.9771003723144531,
+                "g": 0.6000000238418579,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "smashTargetColor": {
+                "r": 0.9871785044670105,
+                "g": 0.6367924213409424,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "smashExecuteColor": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.2131810188293457,
+                "a": 1.0
+            },
+            "shieldColor": {
+                "r": 1.0,
+                "g": 0.800000011920929,
+                "b": 0.8248124122619629,
+                "a": 1.0
+            },
+            "bounceColor": {
+                "r": 0.4575471878051758,
+                "g": 0.877229630947113,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "id": "223",
+            "audioClipUrl": "https://github.com/wingman103/gameassets/RemoteTestSong.mp3",
+            "albumArtUrl": "https://github.com/wingman103/gameassets/RemoteTestSong.jpg",
+            "songName": "RemoteTestSong",
+            "category": "Remote",
+            "bpm": 125.0,
+            "firstBeatOffset": 8.0,
+            "isLockedByDefault": true,
+            "unlockId": "223",
+            "unlockCostCassets": 5,
+            "unlockCostDiamonds": 0,
+            "trackThemes": [
+                {
+                    "name": "Sunset",
+                    "baseColor": {
+                        "r": 0.15000000596046449,
+                        "g": 0.0,
+                        "b": 0.15000000596046449,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 0.05000000074505806,
+                        "b": 0.5,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Cyber",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.05000000074505806,
+                        "b": 0.15000000596046449,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Neon Night",
+                    "baseColor": {
+                        "r": 0.07999999821186066,
+                        "g": 0.0,
+                        "b": 0.15000000596046449,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.7400000095367432,
+                        "g": 0.07000000029802323,
+                        "b": 1.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Solar",
+                    "baseColor": {
+                        "r": 0.15000000596046449,
+                        "g": 0.05000000074505806,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 0.550000011920929,
+                        "b": 0.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "The Grid",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.10000000149011612,
+                        "b": 0.019999999552965165,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.20000000298023225,
+                        "g": 1.0,
+                        "b": 0.20000000298023225,
+                        "a": 1.0
+                    }
+                }
+            ],
+            "artistName": "Remote",
+            "difficultyLevel": "Normal",
+            "difficultyColor": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "difficultyRating": 3,
+            "flashColors": [
+                {
+                    "r": 0.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 0.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 0.9215686321258545,
+                    "b": 0.01568627543747425,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            ],
+            "comboColorNormal": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "comboColorMedium": {
+                "r": 1.0,
+                "g": 0.4000000059604645,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "comboColorMax": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "announcementColor": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "gateInterval": 4.0,
+            "blockInterval": 2.0,
+            "gateSkipChance": 0.15000000596046449,
+            "startDelayBeats": 8.0,
+            "minGatesPerPhase": 4,
+            "maxGatesPerPhase": 10,
+            "minBlocksPerPhase": 4,
+            "maxBlocksPerPhase": 12,
+            "restBeatsBetweenPhases": 6.0,
+            "maxShieldsPerSong": 3,
+            "minBeatsBeforeFirstShield": 64.0,
+            "minBeatsBetweenShields": 128.0,
+            "shieldSpawnChance": 0.20000000298023225,
+            "cassetSpawnChance": 0.15000000596046449,
+            "normalColor": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "shrunkColor": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "smashTargetColor": {
+                "r": 1.0,
+                "g": 0.9215686321258545,
+                "b": 0.01568627543747425,
+                "a": 1.0
+            },
+            "smashExecuteColor": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "shieldColor": {
+                "r": 1.0,
+                "g": 0.9215686321258545,
+                "b": 0.01568627543747425,
+                "a": 1.0
+            },
+            "bounceColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "id": "song_The Runner",
+            "audioClipUrl": "https://github.com/wingman103/gameassets/The%20Runner.mp3",
+            "albumArtUrl": "https://github.com/wingman103/gameassets/The%20Runner.jpg",
+            "songName": "The Runner",
+            "category": "Classic",
+            "bpm": 120.0,
+            "firstBeatOffset": 0.0,
+            "isLockedByDefault": true,
+            "unlockId": "song_The Runner",
+            "unlockCostCassets": 10,
+            "unlockCostDiamonds": 0,
+            "trackThemes": [
+                {
+                    "name": "Sunset",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 0.05000000074505806,
+                        "b": 0.5,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Cyber",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Neon Night",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.7400000095367432,
+                        "g": 0.07000000029802323,
+                        "b": 1.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Solar",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 0.550000011920929,
+                        "b": 0.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "The Grid",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.20000000298023225,
+                        "g": 1.0,
+                        "b": 0.20000000298023225,
+                        "a": 1.0
+                    }
+                }
+            ],
+            "artistName": "",
+            "difficultyLevel": "Normal",
+            "difficultyColor": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "difficultyRating": 2,
+            "flashColors": [
+                {
+                    "r": 0.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 0.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 0.9215686321258545,
+                    "b": 0.01568627543747425,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            ],
+            "comboColorNormal": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "comboColorMedium": {
+                "r": 1.0,
+                "g": 0.4000000059604645,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "comboColorMax": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "announcementColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "gateInterval": 4.0,
+            "blockInterval": 2.0,
+            "gateSkipChance": 0.15000000596046449,
+            "startDelayBeats": 8.0,
+            "minGatesPerPhase": 4,
+            "maxGatesPerPhase": 10,
+            "minBlocksPerPhase": 4,
+            "maxBlocksPerPhase": 12,
+            "restBeatsBetweenPhases": 6.0,
+            "maxShieldsPerSong": 3,
+            "minBeatsBeforeFirstShield": 64.0,
+            "minBeatsBetweenShields": 128.0,
+            "shieldSpawnChance": 0.20000000298023225,
+            "cassetSpawnChance": 0.15000000596046449,
+            "normalColor": {
+                "r": 1.0,
+                "g": 0.20000000298023225,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "shrunkColor": {
+                "r": 1.0,
+                "g": 0.800000011920929,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "smashTargetColor": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "smashExecuteColor": {
+                "r": 1.0,
+                "g": 0.4000000059604645,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "shieldColor": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "bounceColor": {
+                "r": 1.0,
+                "g": 0.9215686321258545,
+                "b": 0.01568627543747425,
+                "a": 1.0
+            }
+        },
+        {
+            "id": "song_Vibe",
+            "audioClipUrl": "https://github.com/wingman103/gameassets/Vibe.mp3",
+            "albumArtUrl": "https://github.com/wingman103/gameassets/Vibe.jpg",
+            "songName": "Vibe",
+            "category": "Classic",
+            "bpm": 160.0,
+            "firstBeatOffset": 0.0,
+            "isLockedByDefault": true,
+            "unlockId": "song_Vibe",
+            "unlockCostCassets": 10,
+            "unlockCostDiamonds": 0,
+            "trackThemes": [
+                {
+                    "name": "Venom",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.30000001192092898,
+                        "g": 1.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Radiation",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Mutation",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.800000011920929,
+                        "g": 0.0,
+                        "b": 1.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Slime",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.10000000149011612,
+                        "g": 1.0,
+                        "b": 0.5,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Critical",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 0.20000000298023225,
+                        "b": 0.10000000149011612,
+                        "a": 1.0
+                    }
+                }
+            ],
+            "artistName": "",
+            "difficultyLevel": "Normal",
+            "difficultyColor": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "difficultyRating": 2,
+            "flashColors": [
+                {
+                    "r": 0.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 0.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 0.9215686321258545,
+                    "b": 0.01568627543747425,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            ],
+            "comboColorNormal": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "comboColorMedium": {
+                "r": 1.0,
+                "g": 0.4000000059604645,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "comboColorMax": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "announcementColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "gateInterval": 4.0,
+            "blockInterval": 2.0,
+            "gateSkipChance": 0.15000000596046449,
+            "startDelayBeats": 8.0,
+            "minGatesPerPhase": 4,
+            "maxGatesPerPhase": 10,
+            "minBlocksPerPhase": 4,
+            "maxBlocksPerPhase": 12,
+            "restBeatsBetweenPhases": 6.0,
+            "maxShieldsPerSong": 3,
+            "minBeatsBeforeFirstShield": 64.0,
+            "minBeatsBetweenShields": 128.0,
+            "shieldSpawnChance": 0.20000000298023225,
+            "cassetSpawnChance": 0.15000000596046449,
+            "normalColor": {
+                "r": 1.0,
+                "g": 0.699999988079071,
+                "b": 0.800000011920929,
+                "a": 1.0
+            },
+            "shrunkColor": {
+                "r": 0.5,
+                "g": 1.0,
+                "b": 0.8999999761581421,
+                "a": 1.0
+            },
+            "smashTargetColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "smashExecuteColor": {
+                "r": 1.0,
+                "g": 0.5,
+                "b": 0.4000000059604645,
+                "a": 1.0
+            },
+            "shieldColor": {
+                "r": 0.30000001192092898,
+                "g": 0.800000011920929,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "bounceColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        }
+    ]
+}
