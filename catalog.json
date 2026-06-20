@@ -8,7 +8,7 @@
             "songName": "RemoteTestSong",
             "category": "Remote",
             "bpm": 125.0,
-            "firstBeatOffset": 8.0,
+            "firstBeatOffset": 0.0,
             "isLockedByDefault": true,
             "unlockId": "223",
             "unlockCostCassets": 5,
