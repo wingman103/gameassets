@@ -2,9 +2,208 @@
     "version": 1,
     "songs": [
         {
+            "id": "223",
+            "audioClipUrl": "https://raw.githubusercontent.com/wingman103/gameassets/main/RemoteTestSong.mp3",
+            "albumArtUrl": "https://raw.githubusercontent.com/wingman103/gameassets/main/RemoteTestSong.jpg",
+            "songName": "RemoteTestSong",
+            "category": "Remote",
+            "bpm": 125.0,
+            "firstBeatOffset": 8.0,
+            "isLockedByDefault": true,
+            "unlockId": "223",
+            "unlockCostCassets": 5,
+            "unlockCostDiamonds": 0,
+            "trackThemes": [
+                {
+                    "name": "Sunset",
+                    "baseColor": {
+                        "r": 0.15000000596046449,
+                        "g": 0.0,
+                        "b": 0.15000000596046449,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 0.05000000074505806,
+                        "b": 0.5,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Cyber",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.05000000074505806,
+                        "b": 0.15000000596046449,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Neon Night",
+                    "baseColor": {
+                        "r": 0.07999999821186066,
+                        "g": 0.0,
+                        "b": 0.15000000596046449,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.7400000095367432,
+                        "g": 0.07000000029802323,
+                        "b": 1.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "Solar",
+                    "baseColor": {
+                        "r": 0.15000000596046449,
+                        "g": 0.05000000074505806,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 1.0,
+                        "g": 0.550000011920929,
+                        "b": 0.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "name": "The Grid",
+                    "baseColor": {
+                        "r": 0.0,
+                        "g": 0.10000000149011612,
+                        "b": 0.019999999552965165,
+                        "a": 1.0
+                    },
+                    "emissiveColor": {
+                        "r": 0.20000000298023225,
+                        "g": 1.0,
+                        "b": 0.20000000298023225,
+                        "a": 1.0
+                    }
+                }
+            ],
+            "artistName": "Remote",
+            "difficultyLevel": "Normal",
+            "difficultyColor": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "difficultyRating": 3,
+            "flashColors": [
+                {
+                    "r": 0.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 0.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 0.9215686321258545,
+                    "b": 0.01568627543747425,
+                    "a": 1.0
+                },
+                {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            ],
+            "comboColorNormal": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "comboColorMedium": {
+                "r": 1.0,
+                "g": 0.4000000059604645,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "comboColorMax": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "announcementColor": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "gateInterval": 4.0,
+            "blockInterval": 2.0,
+            "gateSkipChance": 0.15000000596046449,
+            "startDelayBeats": 8.0,
+            "minGatesPerPhase": 4,
+            "maxGatesPerPhase": 10,
+            "minBlocksPerPhase": 4,
+            "maxBlocksPerPhase": 12,
+            "restBeatsBetweenPhases": 6.0,
+            "maxShieldsPerSong": 3,
+            "minBeatsBeforeFirstShield": 64.0,
+            "minBeatsBetweenShields": 128.0,
+            "shieldSpawnChance": 0.20000000298023225,
+            "cassetSpawnChance": 0.15000000596046449,
+            "normalColor": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "shrunkColor": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "smashTargetColor": {
+                "r": 1.0,
+                "g": 0.9215686321258545,
+                "b": 0.01568627543747425,
+                "a": 1.0
+            },
+            "smashExecuteColor": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "shieldColor": {
+                "r": 1.0,
+                "g": 0.9215686321258545,
+                "b": 0.01568627543747425,
+                "a": 1.0
+            },
+            "bounceColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
             "id": "song_Futuristic Racing",
-            "audioClipUrl": "https://github.com/wingman103/gameassets/Futuristic%20Racing.mp3",
-            "albumArtUrl": "https://github.com/wingman103/gameassets/Futuristic%20Racing.jpg",
+            "audioClipUrl": "https://raw.githubusercontent.com/wingman103/gameassets/main/Futuristic%20Racing.mp3",
+            "albumArtUrl": "https://raw.githubusercontent.com/wingman103/gameassets/main/Futuristic%20Racing.jpg",
             "songName": "Futuristic Racing",
             "category": "Classic",
             "bpm": 125.0,
@@ -202,8 +401,8 @@
         },
         {
             "id": "song_Dark Rolling",
-            "audioClipUrl": "https://github.com/wingman103/gameassets/Dark%20Rolling.mp3",
-            "albumArtUrl": "https://github.com/wingman103/gameassets/Dark%20Rolling.jpg",
+            "audioClipUrl": "https://raw.githubusercontent.com/wingman103/gameassets/main/Dark%20Rolling.mp3",
+            "albumArtUrl": "https://raw.githubusercontent.com/wingman103/gameassets/main/Dark%20Rolling.jpg",
             "songName": "Dark Rolling",
             "category": "Classic",
             "bpm": 135.0,
@@ -401,8 +600,8 @@
         },
         {
             "id": "170bpm-epic_euphoric_hardstyle_anthem",
-            "audioClipUrl": "https://github.com/wingman103/gameassets/170BPM-Epic%20Euphoric%20Hardstyle%20Anthem.mp3",
-            "albumArtUrl": "https://github.com/wingman103/gameassets/170BPM-Epic%20Euphoric%20Hardstyle%20Anthem.jpg",
+            "audioClipUrl": "https://raw.githubusercontent.com/wingman103/gameassets/main/170BPM-Epic%20Euphoric%20Hardstyle%20Anthem.mp3",
+            "albumArtUrl": "https://raw.githubusercontent.com/wingman103/gameassets/main/170BPM-Epic%20Euphoric%20Hardstyle%20Anthem.jpg",
             "songName": "170BPM-Epic Euphoric Hardstyle Anthem",
             "category": "Classic",
             "bpm": 170.0,
@@ -600,8 +799,8 @@
         },
         {
             "id": "song_Darksynth",
-            "audioClipUrl": "https://github.com/wingman103/gameassets/Darksynth.mp3",
-            "albumArtUrl": "https://github.com/wingman103/gameassets/Darksynth.jpg",
+            "audioClipUrl": "https://raw.githubusercontent.com/wingman103/gameassets/main/Darksynth.mp3",
+            "albumArtUrl": "https://raw.githubusercontent.com/wingman103/gameassets/main/Darksynth.jpg",
             "songName": "Darksynth",
             "category": "Classic",
             "bpm": 150.0,
@@ -799,8 +998,8 @@
         },
         {
             "id": "song_Hyper-Techno",
-            "audioClipUrl": "https://github.com/wingman103/gameassets/Hyper-Techno.mp3",
-            "albumArtUrl": "https://github.com/wingman103/gameassets/Hyper-Techno.jpg",
+            "audioClipUrl": "https://raw.githubusercontent.com/wingman103/gameassets/main/Hyper-Techno.mp3",
+            "albumArtUrl": "https://raw.githubusercontent.com/wingman103/gameassets/main/Hyper-Techno.jpg",
             "songName": "Hyper-Techno",
             "category": "Hardcore",
             "bpm": 160.0,
@@ -998,8 +1197,8 @@
         },
         {
             "id": "song_NEON",
-            "audioClipUrl": "https://github.com/wingman103/gameassets/NEON.mp3",
-            "albumArtUrl": "https://github.com/wingman103/gameassets/NEON.jpg",
+            "audioClipUrl": "https://raw.githubusercontent.com/wingman103/gameassets/main/NEON.mp3",
+            "albumArtUrl": "https://raw.githubusercontent.com/wingman103/gameassets/main/NEON.jpg",
             "songName": "NEON",
             "category": "Classic",
             "bpm": 160.0,
@@ -1197,8 +1396,8 @@
         },
         {
             "id": "160bpm-high-energy_brazilian_phonk_track",
-            "audioClipUrl": "https://github.com/wingman103/gameassets/160BPM-High-Energy%20Brazilian%20Phonk%20Track.mp3",
-            "albumArtUrl": "https://github.com/wingman103/gameassets/160BPM-High-Energy%20Brazilian%20Phonk%20Track.jpg",
+            "audioClipUrl": "https://raw.githubusercontent.com/wingman103/gameassets/main/160BPM-High-Energy%20Brazilian%20Phonk%20Track.mp3",
+            "albumArtUrl": "https://raw.githubusercontent.com/wingman103/gameassets/main/160BPM-High-Energy%20Brazilian%20Phonk%20Track.jpg",
             "songName": "160BPM-High-Energy Brazilian Phonk Track",
             "category": "Hardcore",
             "bpm": 160.0,
@@ -1396,8 +1595,8 @@
         },
         {
             "id": "song_175BPM-High-Adrenaline Hyper-Techno Phonk Track",
-            "audioClipUrl": "https://github.com/wingman103/gameassets/175BPM-High-Adrenaline%20Hyper-Techno%20Phonk%20Track.mp3",
-            "albumArtUrl": "https://github.com/wingman103/gameassets/175BPM-High-Adrenaline%20Hyper-Techno%20Phonk%20Track.jpg",
+            "audioClipUrl": "https://raw.githubusercontent.com/wingman103/gameassets/main/175BPM-High-Adrenaline%20Hyper-Techno%20Phonk%20Track.mp3",
+            "albumArtUrl": "https://raw.githubusercontent.com/wingman103/gameassets/main/175BPM-High-Adrenaline%20Hyper-Techno%20Phonk%20Track.jpg",
             "songName": "175BPM-High-Adrenaline Hyper-Techno Phonk Track",
             "category": "Hardcore",
             "bpm": 175.0,
@@ -1595,8 +1794,8 @@
         },
         {
             "id": "song_APT",
-            "audioClipUrl": "https://github.com/wingman103/gameassets/APT.mp3",
-            "albumArtUrl": "https://github.com/wingman103/gameassets/APT.jpg",
+            "audioClipUrl": "https://raw.githubusercontent.com/wingman103/gameassets/main/APT.mp3",
+            "albumArtUrl": "https://raw.githubusercontent.com/wingman103/gameassets/main/APT.jpg",
             "songName": "APT",
             "category": "EDM",
             "bpm": 150.0,
@@ -1794,8 +1993,8 @@
         },
         {
             "id": "song_Pixel Rush",
-            "audioClipUrl": "https://github.com/wingman103/gameassets/Pixel%20Rush.mp3",
-            "albumArtUrl": "https://github.com/wingman103/gameassets/Pixel%20Rush.jpg",
+            "audioClipUrl": "https://raw.githubusercontent.com/wingman103/gameassets/main/Pixel%20Rush.mp3",
+            "albumArtUrl": "https://raw.githubusercontent.com/wingman103/gameassets/main/Pixel%20Rush.jpg",
             "songName": "Pixel Rush",
             "category": "EDM",
             "bpm": 150.0,
@@ -1992,208 +2191,9 @@
             }
         },
         {
-            "id": "223",
-            "audioClipUrl": "https://github.com/wingman103/gameassets/RemoteTestSong.mp3",
-            "albumArtUrl": "https://github.com/wingman103/gameassets/RemoteTestSong.jpg",
-            "songName": "RemoteTestSong",
-            "category": "Remote",
-            "bpm": 125.0,
-            "firstBeatOffset": 8.0,
-            "isLockedByDefault": true,
-            "unlockId": "223",
-            "unlockCostCassets": 5,
-            "unlockCostDiamonds": 0,
-            "trackThemes": [
-                {
-                    "name": "Sunset",
-                    "baseColor": {
-                        "r": 0.15000000596046449,
-                        "g": 0.0,
-                        "b": 0.15000000596046449,
-                        "a": 1.0
-                    },
-                    "emissiveColor": {
-                        "r": 1.0,
-                        "g": 0.05000000074505806,
-                        "b": 0.5,
-                        "a": 1.0
-                    }
-                },
-                {
-                    "name": "Cyber",
-                    "baseColor": {
-                        "r": 0.0,
-                        "g": 0.05000000074505806,
-                        "b": 0.15000000596046449,
-                        "a": 1.0
-                    },
-                    "emissiveColor": {
-                        "r": 0.0,
-                        "g": 1.0,
-                        "b": 1.0,
-                        "a": 1.0
-                    }
-                },
-                {
-                    "name": "Neon Night",
-                    "baseColor": {
-                        "r": 0.07999999821186066,
-                        "g": 0.0,
-                        "b": 0.15000000596046449,
-                        "a": 1.0
-                    },
-                    "emissiveColor": {
-                        "r": 0.7400000095367432,
-                        "g": 0.07000000029802323,
-                        "b": 1.0,
-                        "a": 1.0
-                    }
-                },
-                {
-                    "name": "Solar",
-                    "baseColor": {
-                        "r": 0.15000000596046449,
-                        "g": 0.05000000074505806,
-                        "b": 0.0,
-                        "a": 1.0
-                    },
-                    "emissiveColor": {
-                        "r": 1.0,
-                        "g": 0.550000011920929,
-                        "b": 0.0,
-                        "a": 1.0
-                    }
-                },
-                {
-                    "name": "The Grid",
-                    "baseColor": {
-                        "r": 0.0,
-                        "g": 0.10000000149011612,
-                        "b": 0.019999999552965165,
-                        "a": 1.0
-                    },
-                    "emissiveColor": {
-                        "r": 0.20000000298023225,
-                        "g": 1.0,
-                        "b": 0.20000000298023225,
-                        "a": 1.0
-                    }
-                }
-            ],
-            "artistName": "Remote",
-            "difficultyLevel": "Normal",
-            "difficultyColor": {
-                "r": 0.0,
-                "g": 1.0,
-                "b": 1.0,
-                "a": 1.0
-            },
-            "difficultyRating": 3,
-            "flashColors": [
-                {
-                    "r": 0.0,
-                    "g": 1.0,
-                    "b": 1.0,
-                    "a": 1.0
-                },
-                {
-                    "r": 1.0,
-                    "g": 0.0,
-                    "b": 1.0,
-                    "a": 1.0
-                },
-                {
-                    "r": 1.0,
-                    "g": 0.9215686321258545,
-                    "b": 0.01568627543747425,
-                    "a": 1.0
-                },
-                {
-                    "r": 1.0,
-                    "g": 1.0,
-                    "b": 1.0,
-                    "a": 1.0
-                }
-            ],
-            "comboColorNormal": {
-                "r": 1.0,
-                "g": 1.0,
-                "b": 1.0,
-                "a": 1.0
-            },
-            "comboColorMedium": {
-                "r": 1.0,
-                "g": 0.4000000059604645,
-                "b": 0.0,
-                "a": 1.0
-            },
-            "comboColorMax": {
-                "r": 1.0,
-                "g": 0.0,
-                "b": 0.0,
-                "a": 1.0
-            },
-            "announcementColor": {
-                "r": 0.0,
-                "g": 1.0,
-                "b": 1.0,
-                "a": 1.0
-            },
-            "gateInterval": 4.0,
-            "blockInterval": 2.0,
-            "gateSkipChance": 0.15000000596046449,
-            "startDelayBeats": 8.0,
-            "minGatesPerPhase": 4,
-            "maxGatesPerPhase": 10,
-            "minBlocksPerPhase": 4,
-            "maxBlocksPerPhase": 12,
-            "restBeatsBetweenPhases": 6.0,
-            "maxShieldsPerSong": 3,
-            "minBeatsBeforeFirstShield": 64.0,
-            "minBeatsBetweenShields": 128.0,
-            "shieldSpawnChance": 0.20000000298023225,
-            "cassetSpawnChance": 0.15000000596046449,
-            "normalColor": {
-                "r": 0.0,
-                "g": 1.0,
-                "b": 1.0,
-                "a": 1.0
-            },
-            "shrunkColor": {
-                "r": 1.0,
-                "g": 0.0,
-                "b": 1.0,
-                "a": 1.0
-            },
-            "smashTargetColor": {
-                "r": 1.0,
-                "g": 0.9215686321258545,
-                "b": 0.01568627543747425,
-                "a": 1.0
-            },
-            "smashExecuteColor": {
-                "r": 1.0,
-                "g": 0.0,
-                "b": 0.0,
-                "a": 1.0
-            },
-            "shieldColor": {
-                "r": 1.0,
-                "g": 0.9215686321258545,
-                "b": 0.01568627543747425,
-                "a": 1.0
-            },
-            "bounceColor": {
-                "r": 1.0,
-                "g": 1.0,
-                "b": 1.0,
-                "a": 1.0
-            }
-        },
-        {
             "id": "song_The Runner",
-            "audioClipUrl": "https://github.com/wingman103/gameassets/The%20Runner.mp3",
-            "albumArtUrl": "https://github.com/wingman103/gameassets/The%20Runner.jpg",
+            "audioClipUrl": "https://raw.githubusercontent.com/wingman103/gameassets/main/The%20Runner.mp3",
+            "albumArtUrl": "https://raw.githubusercontent.com/wingman103/gameassets/main/The%20Runner.jpg",
             "songName": "The Runner",
             "category": "Classic",
             "bpm": 120.0,
@@ -2391,8 +2391,8 @@
         },
         {
             "id": "song_Vibe",
-            "audioClipUrl": "https://github.com/wingman103/gameassets/Vibe.mp3",
-            "albumArtUrl": "https://github.com/wingman103/gameassets/Vibe.jpg",
+            "audioClipUrl": "https://raw.githubusercontent.com/wingman103/gameassets/main/Vibe.mp3",
+            "albumArtUrl": "https://raw.githubusercontent.com/wingman103/gameassets/main/Vibe.jpg",
             "songName": "Vibe",
             "category": "Classic",
             "bpm": 160.0,
